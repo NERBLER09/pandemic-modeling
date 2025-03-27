@@ -1,0 +1,3 @@
+# An SIR-based Pandemic Modeling thing....
+
+A project that I am creating to practice Python and data science and other things. I may also use this for my IB Math IA, if this is something that I can acutally do.
